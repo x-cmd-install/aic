@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5723883,
       "digest": "sha256:412d8ac35c5413863a4203341f4d2ce8620977b3e5c83c42307c3d5027d5b467",
-      "download_count": 36,
+      "download_count": 37,
       "created_at": "2026-02-15T04:03:20Z",
       "updated_at": "2026-02-15T04:03:21Z",
       "browser_download_url": "https://github.com/reyamira/aic/releases/download/v2.7.0/aic_2.7.0_linux_amd64.tar.gz"
