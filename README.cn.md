@@ -4,7 +4,7 @@
 
 CLI to fetch the latest changelogs for AI coding assistants — Claude Code, Codex, OpenCode, Gemini CLI, Openclaw, and a few more
 
-![aic](https://repo.x-cmd.io/aic.svg)
+![aic](https://repo.x-cmd.io/aic.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,18 @@ x install aic
 - **最新版本**: `v2.7.0` (2026-02-15)
 - **最近提交**: 2026-05-09
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-02-15T04:03:22Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [aic_2.7.0_darwin_amd64.tar.gz](https://github.com/reyamira/aic/releases/download/v2.7.0/aic_2.7.0_darwin_amd64.tar.gz) | 5.5 MiB | `native/darwin/x64` |
+| [aic_2.7.0_darwin_arm64.tar.gz](https://github.com/reyamira/aic/releases/download/v2.7.0/aic_2.7.0_darwin_arm64.tar.gz) | 5.1 MiB | `native/darwin/arm64` |
+| [aic_2.7.0_linux_amd64.tar.gz](https://github.com/reyamira/aic/releases/download/v2.7.0/aic_2.7.0_linux_amd64.tar.gz) | 5.5 MiB | `native/linux/x64` |
+| [aic_2.7.0_linux_arm64.tar.gz](https://github.com/reyamira/aic/releases/download/v2.7.0/aic_2.7.0_linux_arm64.tar.gz) | 4.9 MiB | `native/linux/arm64` |
+| [aic_2.7.0_windows_amd64.zip](https://github.com/reyamira/aic/releases/download/v2.7.0/aic_2.7.0_windows_amd64.zip) | 5.6 MiB | `native/win/x64` |
+| [aic_2.7.0_windows_arm64.zip](https://github.com/reyamira/aic/releases/download/v2.7.0/aic_2.7.0_windows_arm64.zip) | 5.0 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/reyamira/aic/releases/download/v2.7.0/checksums.txt) | 570 B | `other` |
 
 ## 流行度
 
@@ -59,4 +70,4 @@ aic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:48:26Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:33:19Z._
