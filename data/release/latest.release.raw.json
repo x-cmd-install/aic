@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5809552,
       "digest": "sha256:29fff7152e03ef26874cae88898426981d22d0a5254a1cf4b2de4bfea5153c38",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-02-15T04:03:20Z",
       "updated_at": "2026-02-15T04:03:21Z",
       "browser_download_url": "https://github.com/reyamira/aic/releases/download/v2.7.0/aic_2.7.0_darwin_amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5379067,
       "digest": "sha256:648d0349b4886e3a3d1da6cd6b665d46d828cd3f71daa3f863dac038a54dd12e",
-      "download_count": 70,
+      "download_count": 73,
       "created_at": "2026-02-15T04:03:21Z",
       "updated_at": "2026-02-15T04:03:22Z",
       "browser_download_url": "https://github.com/reyamira/aic/releases/download/v2.7.0/aic_2.7.0_darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5723883,
       "digest": "sha256:412d8ac35c5413863a4203341f4d2ce8620977b3e5c83c42307c3d5027d5b467",
-      "download_count": 97,
+      "download_count": 101,
       "created_at": "2026-02-15T04:03:20Z",
       "updated_at": "2026-02-15T04:03:21Z",
       "browser_download_url": "https://github.com/reyamira/aic/releases/download/v2.7.0/aic_2.7.0_linux_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5181355,
       "digest": "sha256:1b2ef1e3e67dd6323c4b545bc18e61ecb1f30635dd7c45a382b4467ad9ead24d",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-02-15T04:03:21Z",
       "updated_at": "2026-02-15T04:03:22Z",
       "browser_download_url": "https://github.com/reyamira/aic/releases/download/v2.7.0/aic_2.7.0_linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5885791,
       "digest": "sha256:69a57e8e607084fa739c76b00095e446fc40faff6cab2ebd06cd6e7201a479ac",
-      "download_count": 47,
+      "download_count": 50,
       "created_at": "2026-02-15T04:03:20Z",
       "updated_at": "2026-02-15T04:03:21Z",
       "browser_download_url": "https://github.com/reyamira/aic/releases/download/v2.7.0/aic_2.7.0_windows_amd64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5261233,
       "digest": "sha256:6bb34259b4f0fd609fd324b512b8796b4f0d590baa225e37098274083ff2e1ef",
-      "download_count": 42,
+      "download_count": 44,
       "created_at": "2026-02-15T04:03:20Z",
       "updated_at": "2026-02-15T04:03:21Z",
       "browser_download_url": "https://github.com/reyamira/aic/releases/download/v2.7.0/aic_2.7.0_windows_arm64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 570,
       "digest": "sha256:4edf89c1f308a230c7d393de7c237c7442a90129c97e4c17260d6546ebb1ea24",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-02-15T04:03:21Z",
       "updated_at": "2026-02-15T04:03:21Z",
       "browser_download_url": "https://github.com/reyamira/aic/releases/download/v2.7.0/checksums.txt"
